@@ -18,4 +18,4 @@ make install
 USAGE
 -------------
 
-check test files t/basic.t to see how things are working.
+check test file t/basic.t to see how things are working.
